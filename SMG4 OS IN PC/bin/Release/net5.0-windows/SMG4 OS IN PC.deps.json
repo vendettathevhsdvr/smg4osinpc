@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SMG4 OS IN PC/1.0.0": {
+        "runtime": {
+          "SMG4 OS IN PC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SMG4 OS IN PC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
