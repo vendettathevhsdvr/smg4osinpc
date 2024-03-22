@@ -63,6 +63,26 @@ namespace SMG4_OS_IN_PC.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Bin_Empty_PB11_22 {
+            get {
+                object obj = ResourceManager.GetObject("Bin_Empty_PB11-22", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap File_PB11_22 {
+            get {
+                object obj = ResourceManager.GetObject("File_PB11-22", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Freshlycat {
             get {
                 object obj = ResourceManager.GetObject("Freshlycat", resourceCulture);
@@ -106,6 +126,26 @@ namespace SMG4_OS_IN_PC.Properties {
         internal static System.Drawing.Bitmap Mailbox_PB11_22 {
             get {
                 object obj = ResourceManager.GetObject("Mailbox_PB11-22", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Mailbox_PB11_221 {
+            get {
+                object obj = ResourceManager.GetObject("Mailbox_PB11-221", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap My_menu_PB11_22 {
+            get {
+                object obj = ResourceManager.GetObject("My_menu_PB11-22", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

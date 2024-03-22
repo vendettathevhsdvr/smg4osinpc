@@ -1,0 +1,25 @@
+D:\visual studio viruses project\SMG4 OS IN PC\SMG4 OS IN PC\bin\Release\net5.0-windows8.0\SMG4 OS IN PC.exe
+D:\visual studio viruses project\SMG4 OS IN PC\SMG4 OS IN PC\bin\Release\net5.0-windows8.0\SMG4 OS IN PC.deps.json
+D:\visual studio viruses project\SMG4 OS IN PC\SMG4 OS IN PC\bin\Release\net5.0-windows8.0\SMG4 OS IN PC.runtimeconfig.json
+D:\visual studio viruses project\SMG4 OS IN PC\SMG4 OS IN PC\bin\Release\net5.0-windows8.0\SMG4 OS IN PC.runtimeconfig.dev.json
+D:\visual studio viruses project\SMG4 OS IN PC\SMG4 OS IN PC\bin\Release\net5.0-windows8.0\SMG4 OS IN PC.dll
+D:\visual studio viruses project\SMG4 OS IN PC\SMG4 OS IN PC\bin\Release\net5.0-windows8.0\SMG4 OS IN PC.pdb
+D:\visual studio viruses project\SMG4 OS IN PC\SMG4 OS IN PC\obj\Release\net5.0-windows8.0\SMG4 OS IN PC.csproj.AssemblyReference.cache
+D:\visual studio viruses project\SMG4 OS IN PC\SMG4 OS IN PC\obj\Release\net5.0-windows8.0\SMG4_OS_IN_PC.Form1.resources
+D:\visual studio viruses project\SMG4 OS IN PC\SMG4 OS IN PC\obj\Release\net5.0-windows8.0\SMG4_OS_IN_PC.Form2.resources
+D:\visual studio viruses project\SMG4 OS IN PC\SMG4 OS IN PC\obj\Release\net5.0-windows8.0\SMG4_OS_IN_PC.Form3.resources
+D:\visual studio viruses project\SMG4 OS IN PC\SMG4 OS IN PC\obj\Release\net5.0-windows8.0\SMG4_OS_IN_PC.Form4.resources
+D:\visual studio viruses project\SMG4 OS IN PC\SMG4 OS IN PC\obj\Release\net5.0-windows8.0\SMG4_OS_IN_PC.Form5.resources
+D:\visual studio viruses project\SMG4 OS IN PC\SMG4 OS IN PC\obj\Release\net5.0-windows8.0\SMG4_OS_IN_PC.Form6.resources
+D:\visual studio viruses project\SMG4 OS IN PC\SMG4 OS IN PC\obj\Release\net5.0-windows8.0\SMG4_OS_IN_PC.Form7.resources
+D:\visual studio viruses project\SMG4 OS IN PC\SMG4 OS IN PC\obj\Release\net5.0-windows8.0\SMG4_OS_IN_PC.Properties.Resources.resources
+D:\visual studio viruses project\SMG4 OS IN PC\SMG4 OS IN PC\obj\Release\net5.0-windows8.0\SMG4 OS IN PC.csproj.GenerateResource.cache
+D:\visual studio viruses project\SMG4 OS IN PC\SMG4 OS IN PC\obj\Release\net5.0-windows8.0\SMG4 OS IN PC.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio viruses project\SMG4 OS IN PC\SMG4 OS IN PC\obj\Release\net5.0-windows8.0\SMG4 OS IN PC.AssemblyInfoInputs.cache
+D:\visual studio viruses project\SMG4 OS IN PC\SMG4 OS IN PC\obj\Release\net5.0-windows8.0\SMG4 OS IN PC.AssemblyInfo.cs
+D:\visual studio viruses project\SMG4 OS IN PC\SMG4 OS IN PC\obj\Release\net5.0-windows8.0\SMG4 OS IN PC.csproj.CoreCompileInputs.cache
+D:\visual studio viruses project\SMG4 OS IN PC\SMG4 OS IN PC\obj\Release\net5.0-windows8.0\SMG4 OS IN PC.dll
+D:\visual studio viruses project\SMG4 OS IN PC\SMG4 OS IN PC\obj\Release\net5.0-windows8.0\refint\SMG4 OS IN PC.dll
+D:\visual studio viruses project\SMG4 OS IN PC\SMG4 OS IN PC\obj\Release\net5.0-windows8.0\SMG4 OS IN PC.pdb
+D:\visual studio viruses project\SMG4 OS IN PC\SMG4 OS IN PC\obj\Release\net5.0-windows8.0\SMG4 OS IN PC.genruntimeconfig.cache
+D:\visual studio viruses project\SMG4 OS IN PC\SMG4 OS IN PC\obj\Release\net5.0-windows8.0\ref\SMG4 OS IN PC.dll
