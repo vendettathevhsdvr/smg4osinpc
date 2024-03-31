@@ -25,9 +25,7 @@ namespace SMG4_OS_IN_PC
 
         private void Form6_Load(object sender, EventArgs e)
         {
-            System.Media.SoundPlayer player = new System.Media.SoundPlayer(@"\SMG4 OS ON PC\sounds\outro_pnt.wav");
-            player.Play();
-            Thread.Sleep(3000); // Pauses the program for 2000 milliseconds (or 2 seconds)
+            Thread.Sleep(1000); // Pauses the program for 2000 milliseconds (or 2 seconds)
             if (System.Windows.Forms.Application.MessageLoop)
             {
                 // WinForms app

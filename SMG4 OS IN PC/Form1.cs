@@ -32,8 +32,7 @@ namespace SMG4_OS_IN_PC
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            System.Media.SoundPlayer player = new System.Media.SoundPlayer(@"\SMG4 OS ON PC\sounds\intro_P11.wav");
-            player.Play();
+
         }
 
         private void pictureBox5_Click(object sender, EventArgs e)
@@ -46,6 +45,17 @@ namespace SMG4_OS_IN_PC
         {
             this.Visible = false;
             Form4 f = new Form4(); // This is bad
+            f.Show();
+        }
+
+        private void pictureBox6_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Hi.");
+        }
+
+        private void pictureBox7_Click(object sender, EventArgs e)
+        {
+            Form7 f = new Form7(); // This is bad
             f.Show();
         }
     }

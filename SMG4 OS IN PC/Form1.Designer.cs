@@ -38,11 +38,17 @@
             label3 = new System.Windows.Forms.Label();
             pictureBox5 = new System.Windows.Forms.PictureBox();
             label4 = new System.Windows.Forms.Label();
+            pictureBox6 = new System.Windows.Forms.PictureBox();
+            label5 = new System.Windows.Forms.Label();
+            pictureBox7 = new System.Windows.Forms.PictureBox();
+            label6 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox2).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox3).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox4).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox5).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox6).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox7).BeginInit();
             SuspendLayout();
             // 
             // pictureBox1
@@ -134,11 +140,55 @@
             label4.TabIndex = 8;
             label4.Text = "Help";
             // 
+            // pictureBox6
+            // 
+            pictureBox6.Image = Properties.Resources.Bin_Empty_PB11_22;
+            pictureBox6.Location = new System.Drawing.Point(106, 12);
+            pictureBox6.Name = "pictureBox6";
+            pictureBox6.Size = new System.Drawing.Size(35, 33);
+            pictureBox6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            pictureBox6.TabIndex = 9;
+            pictureBox6.TabStop = false;
+            pictureBox6.Click += pictureBox6_Click;
+            // 
+            // label5
+            // 
+            label5.AutoSize = true;
+            label5.Location = new System.Drawing.Point(106, 48);
+            label5.Name = "label5";
+            label5.Size = new System.Drawing.Size(24, 15);
+            label5.TabIndex = 10;
+            label5.Text = "Bin";
+            // 
+            // pictureBox7
+            // 
+            pictureBox7.Image = Properties.Resources.My_menu_PB11_22;
+            pictureBox7.Location = new System.Drawing.Point(108, 75);
+            pictureBox7.Name = "pictureBox7";
+            pictureBox7.Size = new System.Drawing.Size(48, 54);
+            pictureBox7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            pictureBox7.TabIndex = 11;
+            pictureBox7.TabStop = false;
+            pictureBox7.Click += pictureBox7_Click;
+            // 
+            // label6
+            // 
+            label6.AutoSize = true;
+            label6.Location = new System.Drawing.Point(118, 132);
+            label6.Name = "label6";
+            label6.Size = new System.Drawing.Size(58, 15);
+            label6.TabIndex = 12;
+            label6.Text = "My Menu";
+            // 
             // Form1
             // 
             AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             ClientSize = new System.Drawing.Size(763, 363);
+            Controls.Add(label6);
+            Controls.Add(pictureBox7);
+            Controls.Add(label5);
+            Controls.Add(pictureBox6);
             Controls.Add(label4);
             Controls.Add(pictureBox5);
             Controls.Add(label3);
@@ -157,6 +207,8 @@
             ((System.ComponentModel.ISupportInitialize)pictureBox3).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox4).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox5).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox6).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox7).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -172,5 +224,9 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.PictureBox pictureBox5;
         private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.PictureBox pictureBox6;
+        private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.PictureBox pictureBox7;
+        private System.Windows.Forms.Label label6;
     }
 }
