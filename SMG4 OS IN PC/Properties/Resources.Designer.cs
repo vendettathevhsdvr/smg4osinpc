@@ -63,9 +63,29 @@ namespace SMG4_OS_IN_PC.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap are_you_ready_for_the_next_show_by_franciscojrg10_dh2ujov_fullview {
+            get {
+                object obj = ResourceManager.GetObject("are_you_ready_for_the_next_show_by_franciscojrg10_dh2ujov-fullview", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Bin_Empty_PB11_22 {
             get {
                 object obj = ResourceManager.GetObject("Bin_Empty_PB11-22", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap costume3 {
+            get {
+                object obj = ResourceManager.GetObject("costume3", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -151,11 +171,30 @@ namespace SMG4_OS_IN_PC.Properties {
         }
         
         /// <summary>
+        ///   Поиск локализованного ресурса типа System.IO.UnmanagedMemoryStream, аналогичного System.IO.MemoryStream.
+        /// </summary>
+        internal static System.IO.UnmanagedMemoryStream outro_p11 {
+            get {
+                return ResourceManager.GetStream("outro_p11", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
         internal static System.Drawing.Bitmap smg4 {
             get {
                 object obj = ResourceManager.GetObject("smg4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap SMG4_2019 {
+            get {
+                object obj = ResourceManager.GetObject("SMG4-2019", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -186,6 +225,25 @@ namespace SMG4_OS_IN_PC.Properties {
         internal static System.Drawing.Bitmap SMG4_Os_My_Menu {
             get {
                 object obj = ResourceManager.GetObject("SMG4 Os My Menu", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.IO.UnmanagedMemoryStream, аналогичного System.IO.MemoryStream.
+        /// </summary>
+        internal static System.IO.UnmanagedMemoryStream Startup {
+            get {
+                return ResourceManager.GetStream("Startup", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Store_BS14 {
+            get {
+                object obj = ResourceManager.GetObject("Store_BS14", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
